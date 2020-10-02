@@ -17,7 +17,7 @@ manage complete portable development environments. These development
 environments can live on your computer or in the cloud, and are portable
 between Windows, Mac OS X, and Linux.
 
-## Quick Start
+## Quick Start Guide
 
 Package dependencies: Vagrant requires `bsdtar` to be available on your system PATH to run successfully.
 
